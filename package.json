@@ -1,0 +1,25 @@
+{
+  "name": "cypress-gha-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haimengzhang/cypress-github-action-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haimengzhang/cypress-github-action-example/issues"
+  },
+  "homepage": "https://github.com/haimengzhang/cypress-github-action-example#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "prettier": "^2.8.8"
+  }
+}
